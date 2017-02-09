@@ -20,7 +20,7 @@ Items
 - **Mask of madness + Midas**: high dps, consumes gold per second
 - **Mask of madness + Drums**: large amount of movement and attack speed
 - **Mask of madness + armlet**: basically kills you
-- **Heart + Eul’s **: will reset the heart cooldown on use
+- **Heart + Euls **: will reset the heart cooldown on use
 - **Urn of shadows + morbid mask**: heals over time 20%/10% of creeps HP after lasthit
 - **Force staff + Blink dagger**:  increases range of forcestaff to 1450 units
 
