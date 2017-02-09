@@ -18,21 +18,16 @@ then split it up like so depending on which class of heroes are you targeting:
 
 #### Supports
 - +200 Hp
-- +120 Mana
-- +10 Damage maybe 
-- you may ignore the the +0.4 Mana regeneration and the +0.3 Hp regeneration
+- +10 int
 
 #### Carries
 - +200 Hp
-- +10 Attack Speed
-- +10 damage
-- you may ignore the the +0.4 Mana regeneration and the +0.3 Hp regeneration and the +120 Mana
+- +10 Agi
 
-#### Tanks/Initiators
-- +200 Hp
-- +120 Mana
+#### Tanks/Initiator
+- +10 Str
+- +10 Int
 - +1-2 Armor
-- +1 Hp regeneration
 
 ### General items
 
