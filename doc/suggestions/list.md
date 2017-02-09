@@ -1,7 +1,7 @@
 The List of already suggested things
 ------------------------------------
 
-[Back](../README.md)
+[Back](../../README.md)
 
 - [General](general.md)
 - [Items](items.md)
