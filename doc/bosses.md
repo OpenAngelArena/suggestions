@@ -1,3 +1,3 @@
 # Bosses
 
-[Back](../README.md)
+[Home](../README.md) > Guidelines for contributing > Bosses
