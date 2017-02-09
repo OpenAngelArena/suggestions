@@ -6,4 +6,4 @@ A repository for tracking suggestions from the community
 - [General](doc/general.md)
 - [Items](doc/items.md)
 - [Bosses](doc/bosses.md)
-- [Mechanics](doc/mehanics.md)
+- [Mechanics](doc/mechanics.md)
