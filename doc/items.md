@@ -1,6 +1,6 @@
 # Items
 
-[Home](../README.md) > Guidelines for contributing > Items
+[Home](../README.md) > [Guidelines for contributing](guidelines.md) > Items
 
 ### General concepts
 - Try to focus on sidegrades and alternatives, and not the most OP badass item
