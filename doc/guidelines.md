@@ -2,7 +2,7 @@
 
 [Home](../README.md) > Guidelines for contributing
 
-- [General](doc/general.md)
-- [Items](doc/items.md)
-- [Bosses](doc/bosses.md)
-- [Mechanics](doc/mechanics.md)
+- [General](general.md)
+- [Items](items.md)
+- [Bosses](bosses.md)
+- [Mechanics](mechanics.md)
