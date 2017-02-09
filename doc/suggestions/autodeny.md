@@ -1,6 +1,6 @@
 Things that will **never** be implemented
 -----------------------------------------
 
-[Back to list](list.md)
+[Home](../../README.md) | [List](list.md)
 
-[Back to home](../../README.md)
+
