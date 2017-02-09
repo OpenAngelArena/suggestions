@@ -1,6 +1,6 @@
 # General
 
-[Back](../README.md)
+[Home](../../README.md) > Guidelines for contributing > General
 
 How to submit an idea:
 ----------------------
