@@ -1,6 +1,6 @@
 # Items
 
-[back](../README.md)
+[Back](../README.md)
 
 ### Stats
 All stats on items makes support classes fall behind in the mid-, lategame.
