@@ -28,3 +28,10 @@ A good example would be for an item:
 You don't even have to include numbers, components or costs; they will be changed a 100 times anyway.
 
 A bad example would be where you write 3 paragraphs about the origin of the item and list a bunch of stats.
+
+How to create nice suggestions:
+-------------------------------
+
+use [Markdown](https://guides.github.com/features/mastering-markdown/)
+
+You **dont** have to do anything fancy, but _some_ highliting and different paragraph sizes can make your suggestion easier to read.
