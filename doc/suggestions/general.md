@@ -5,7 +5,8 @@ General
 
 # Approved or already under consideration
 
-[...]
+- Custom Announcer
+- No Music
 
 # Rejected
 
