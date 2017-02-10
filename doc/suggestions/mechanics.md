@@ -10,4 +10,4 @@ Mechanics
 
 # Rejected
 
-[...]
+- Glory points / boss currency #146 #95
