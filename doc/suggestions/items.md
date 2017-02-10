@@ -26,7 +26,7 @@ Items
 - **Urn of Shadows + Diffusal Blade 1 + Soul Booster**: healing bomb + nether ward passive #67
 - **Force Staff upgrade**: pulls target towards you #52
 - **Blademail + Oblivion Staff + Wraith Band**: damages targeted enemy if they run away, heals them if they move closer #45
-
+- **Shivas + Drumms**: combined effects
 
 # Rejected
 
