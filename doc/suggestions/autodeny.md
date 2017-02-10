@@ -8,3 +8,4 @@ Things that will **never** be implemented
 - Anything that messes respawns
 - Lags
 - Fuck phantom lancer
+- Consumable recipes #49
