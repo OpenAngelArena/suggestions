@@ -5,6 +5,6 @@ Things that will **never** be implemented
 
 - Roshan hero
 - “Weeaboo shit”
-- Long respawns
+- Anything that messes respawns
 - Lags
 - Fuck phantom lancer
