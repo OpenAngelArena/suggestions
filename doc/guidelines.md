@@ -6,3 +6,4 @@
 - [Items](items.md)
 - [Bosses](bosses.md)
 - [Mechanics](mechanics.md)
+- [Heroes](heroes.md)
