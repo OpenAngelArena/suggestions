@@ -20,9 +20,9 @@ Items
 - **Mask of madness + Midas**: high dps, consumes gold per second
 - **Mask of madness + Drums**: large amount of movement and attack speed
 - **Mask of madness + armlet**: basically kills you
-- **Heart + Euls **: will reset the heart cooldown on use
+- **Heart + Euls**: will reset the heart cooldown on use
 - **Urn of shadows + morbid mask**: heals over time 20%/10% of creeps HP after lasthit
-- **Force staff + Blink dagger**:  increases range of forcestaff to 1450 units
+- **Force staff + Blink dagger**:  increases range of force staff to 1450 units
 - **Urn of Shadows + Diffusal Blade 1 + Soul Booster**: healing bomb + nether ward passive #67
 - **Force Staff upgrade**: pulls target towards you #52
 - **Blademail + Oblivion Staff + Wraith Band**: damages targeted enemy if they run away, heals them if they move closer #45
@@ -31,3 +31,5 @@ Items
 # Rejected
 
 - **Win button**: joke item, does nothing #104
+- **Shivas + Atos**: shivas effect on target; not interesting enough + too many Shivas recipes #163
+- **Force staff + javelin/claymore**: pushes you back, gives a few +dmg instances # 156
